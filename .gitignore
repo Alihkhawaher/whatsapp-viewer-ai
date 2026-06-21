@@ -1,3 +1,7 @@
 # Temporary exe copy (uploaded as release asset, not tracked in repo)
 WhatsAppViewerAI.exe
 *.exe
+
+# Runtime files (not part of release)
+crash_log.txt
+WhatsAppViewerAI.json
